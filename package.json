@@ -43,8 +43,8 @@
     "typecheck": "npm run typecheck -w @relaycode/protocol && npm run typecheck -w @relaycode/bridge && npm run typecheck -w @relaycode/mobile"
   },
   "devDependencies": {
-    "concurrently": "^9.2.1",
-    "esbuild": "^0.28.1",
+    "concurrently": "^9.2.5",
+    "esbuild": "^0.28.2",
     "typescript": "^5.9.3",
     "vitest": "^3.2.4"
   },
